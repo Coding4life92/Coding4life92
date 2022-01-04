@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I'm Rob, from New Jersey. I am mostly known as rob_loves_coding92 on Instagram. I've been sharing my coding journey since 2018 on there and my focus to inpire others to code as well. I really enjoy studying/woking with langauges like C++, Javacript, Typescript and a bit of Python. You can check it out at https://www.instagram.com/rob_loves_coding92/?hl=en
+I'm Rob, from New Jersey. I am mostly known as rob_loves_coding92 on Instagram. I've been sharing my coding journey since 2018 on there and my focus to inpire others to code as well. I really enjoy studying/woking with langauges like C++, Javacript, Typescript and a bit of Python. 
 
-[![Rob's github stats](https://github-readme-stats.vercel.app/api?username=rob_loves_coding92)]
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rob_loves_coding92&langs_count=5&theme=tokyonight)]()
