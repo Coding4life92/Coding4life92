@@ -6,4 +6,4 @@ Outside of coding, I share my journey and projects on Instagram at [@rob_loves_c
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/rob-curcio-a4097a291/)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coding4life92&langs_count=5&theme=tokyonight)]() ![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding4life92&theme=dark_icons=true)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coding4life92&langs_count=5&theme=tokyonight)]()
