@@ -1,6 +1,8 @@
 # Hi, I'm Rob 👋
 
-I'm a passionate **web developer** from **New Jersey**. I specialize in **front-end** and **back-end** technologies, focusing on building modern, responsive, and scalable web applications. I’m always exploring new tools, frameworks, and techniques to improve my development skills.
+I'm a passionate software developer and government contractor based in New Jersey, with a focus on both low-level programming in C/C++ and modern front-end development using React and TypeScript. I work across diverse projects that require performance, precision, and clean UI experiences—often balancing critical backend logic with engaging user interfaces.
+
+Whether I'm writing efficient C++ code or building responsive, scalable web apps, I’m always exploring new tools and techniques to refine my craft and deliver impactful solutions.
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/rob-curcio-a4097a291/)
 
