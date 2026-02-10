@@ -2,7 +2,7 @@
 
 Frontend Engineer | React & TypeScript | UI-Focused Problem Solver
 
-I’m a frontend-focused software engineer based in New Jersey, with professional experience building modern, scalable web applications using React, TypeScript, and JavaScript.
+I’m a frontend-focused software engineer based in New Jersey with experience building modern, scalable web applications using React, TypeScript, and JavaScript.
 
 I specialize in crafting clean, maintainable UI architectures, reusable component systems, and intuitive user experiences—often working in environments where performance, accessibility, and reliability are critical. My background also includes low-level development in C/C++, which gives me a strong foundation in performance-aware thinking and system design.
 
