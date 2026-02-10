@@ -33,7 +33,7 @@ I enjoy bridging the gap between engineering rigor and polished user interfaces,
 - Build high-quality user interfaces
 - Work deeply with React & TypeScript
 - Collaborate with product and design teams
-- Continue growing as a frontend specialist
+- Continue growing as a frontend and backend specialist
 
 ## Known Languages 🌐
 I work with the following languages:
