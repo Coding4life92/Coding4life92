@@ -25,10 +25,11 @@ I enjoy bridging the gap between engineering rigor and polished user interfaces,
 - C / C++ (performance-oriented development)
 - Python
 
+## Connect With Me
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/rob-curcio-a4097a291/)
 
 ## What I’m Looking For
-- I’m currently seeking frontend or frontend-leaning full-stack roles where I can:
+### I’m currently seeking frontend or frontend-leaning full-stack roles where I can:
 - Build high-quality user interfaces
 - Work deeply with React & TypeScript
 - Collaborate with product and design teams
