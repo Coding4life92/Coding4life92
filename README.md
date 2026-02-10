@@ -27,8 +27,14 @@ I enjoy bridging the gap between engineering rigor and polished user interfaces,
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/rob-curcio-a4097a291/)
 
-## Known Languages 🌐
+## What I’m Looking For
+- I’m currently seeking frontend or frontend-leaning full-stack roles where I can:
+- Build high-quality user interfaces
+- Work deeply with React & TypeScript
+- Collaborate with product and design teams
+- Continue growing as a frontend specialist
 
+## Known Languages 🌐
 I work with the following languages:
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
