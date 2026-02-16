@@ -12,7 +12,7 @@ I find it rewarding to connect engineering excellence with well-crafted user int
 
 ### Frontend
 
-- React (Hooks, Patterns, Component Architecture)
+- React
 - TypeScript & JavaScript (ES6+)
 - Responsive UI & reusable design systems
 - State management & controlled components
